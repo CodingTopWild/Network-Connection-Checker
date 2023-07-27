@@ -16,6 +16,6 @@ if check_network(host_name, port_number):
     print("* Network connection available *")
     print("="*32)
 else:
-    print("="*36)
+    print("="*37)
     print("* Network connection not available *")
-    print("="*36)
+    print("="*37)
